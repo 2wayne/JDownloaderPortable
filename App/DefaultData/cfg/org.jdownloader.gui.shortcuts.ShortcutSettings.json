@@ -1,0 +1,18 @@
+{
+  "startdownloadsaction" : "Ctrl+S",
+  "stopdownloadsaction" : "Ctrl+S",
+  "pausedownloadstoggleaction" : "Ctrl+B",
+  "linkgrabberactionsconfirmall" : "Ctrl+Enter",
+  "opensettingsaction" : "Ctrl+COMMA",
+  "openknowledgebaseaction" : null,
+  "doreconnectaction" : "Ctrl+I",
+  "openlatestchangesaction" : null,
+  "translatorextensionupload" : "Ctrl+U",
+  "translatorextensionsavelocally" : "Ctrl+S",
+  "globalpremiumtoggleaction" : null,
+  "restartjdownloaderaction" : null,
+  "toolbarclipboardtoggle" : "Ctrl+C",
+  "exitjdownloaderaction" : "Ctrl+Q",
+  "doupdatecheckaction" : null,
+  "toolbarautoreconnecttoggle" : "Ctrl+R"
+}

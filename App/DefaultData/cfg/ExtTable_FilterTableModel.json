@@ -1,0 +1,20 @@
+{
+  "SORT_ORDER_ID" : null,
+  "VISABLE_COL_ExtCheckColumn.org.jdownloader.gui.views.linkgrabber.quickfilter.FilterTableModel$4" : true,
+  "VISABLE_COL_ExtLongColumn.org.jdownloader.gui.views.linkgrabber.quickfilter.FilterTableModel$2" : true,
+  "ColumnWidthLocked_ExtTextColumn.org.jdownloader.gui.views.linkgrabber.quickfilter.FilterTableModel$1" : false,
+  "POS_COL_2" : "",
+  "POS_COL_3" : "",
+  "ColumnWidthLocked_ExtTextColumn.org.jdownloader.gui.views.linkgrabber.quickfilter.FilterTableModel$3" : false,
+  "POS_COL_0" : "",
+  "VISABLE_COL_ExtTextColumn.org.jdownloader.gui.views.linkgrabber.quickfilter.FilterTableModel$1" : true,
+  "POS_COL_1" : "",
+  "VISABLE_COL_ExtTextColumn.org.jdownloader.gui.views.linkgrabber.quickfilter.FilterTableModel$3" : true,
+  "WIDTH_COL_ExtCheckColumn.org.jdownloader.gui.views.linkgrabber.quickfilter.FilterTableModel$4" : 30,
+  "ColumnWidthLocked_ExtLongColumn.org.jdownloader.gui.views.linkgrabber.quickfilter.FilterTableModel$2" : false,
+  "ColumnWidthLocked_ExtCheckColumn.org.jdownloader.gui.views.linkgrabber.quickfilter.FilterTableModel$4" : false,
+  "SORTCOLUMN" : "ExtTextColumn.org.jdownloader.gui.views.linkgrabber.quickfilter.FilterTableModel$3",
+  "WIDTH_COL_ExtTextColumn.org.jdownloader.gui.views.linkgrabber.quickfilter.FilterTableModel$3" : 100,
+  "WIDTH_COL_ExtLongColumn.org.jdownloader.gui.views.linkgrabber.quickfilter.FilterTableModel$2" : 40,
+  "WIDTH_COL_ExtTextColumn.org.jdownloader.gui.views.linkgrabber.quickfilter.FilterTableModel$1" : 18
+}

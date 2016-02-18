@@ -1,0 +1,10 @@
+{
+  "onminimizeaction" : "TO_TASKBAR",
+  "enabled" : true,
+  "startminimizedenabled" : false,
+  "oncloseaction" : "ASK",
+  "gnometrayicontransparentenabled" : true,
+  "greyiconenabled" : false,
+  "showlinkgrabbingresultsoption" : "ALWAYS",
+  "freshinstall" : false
+}

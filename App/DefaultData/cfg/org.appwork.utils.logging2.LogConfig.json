@@ -1,0 +1,7 @@
+{
+  "cleanuplogsolderthanxdays" : 2,
+  "debugmodeenabled" : false,
+  "logflushtimeout" : 60,
+  "maxlogfiles" : 5,
+  "maxlogfilesize" : 1048576
+}

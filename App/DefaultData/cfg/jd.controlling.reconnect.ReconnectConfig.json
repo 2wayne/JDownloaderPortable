@@ -1,0 +1,7 @@
+{
+  "activepluginid" : "httpliveheader",
+  "customipcheckenabled" : false,
+  "ipcheckreadtimeout" : 10000,
+  "successcounter" : 0,
+  "ipcheckconnecttimeout" : 2000
+}

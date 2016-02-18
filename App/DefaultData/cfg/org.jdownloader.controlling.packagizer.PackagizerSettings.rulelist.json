@@ -1,0 +1,64 @@
+[ {
+  "filesizeFilter" : {
+    "enabled" : false,
+    "from" : 0,
+    "matchType" : "BETWEEN",
+    "to" : 0
+  },
+  "hosterURLFilter" : {
+    "enabled" : false,
+    "matchType" : "CONTAINS",
+    "regex" : null,
+    "useRegex" : false
+  },
+  "sourceURLFilter" : {
+    "enabled" : false,
+    "matchType" : "CONTAINS",
+    "regex" : null,
+    "useRegex" : false
+  },
+  "onlineStatusFilter" : {
+    "enabled" : false,
+    "matchType" : "IS",
+    "onlineStatus" : "OFFLINE"
+  },
+  "iconKey" : "folder",
+  "testUrl" : null,
+  "created" : 1353277623672,
+  "pluginStatusFilter" : {
+    "enabled" : false,
+    "matchType" : "IS",
+    "pluginStatus" : "PREMIUM"
+  },
+  "filetypeFilter" : {
+    "enabled" : false,
+    "audioFilesEnabled" : false,
+    "matchType" : "IS",
+    "useRegex" : false,
+    "videoFilesEnabled" : false,
+    "archivesEnabled" : false,
+    "imagesEnabled" : false,
+    "customs" : null
+  },
+  "filenameFilter" : {
+    "enabled" : false,
+    "matchType" : "CONTAINS",
+    "regex" : null,
+    "useRegex" : false
+  },
+  "enabled" : false,
+  "name" : "Create Subfolder by Packagename",
+  "downloadDestination" : "<jd:packagename>",
+  "priority" : null,
+  "packageName" : null,
+  "autoExtractionEnabled" : null,
+  "autoAddEnabled" : null,
+  "autoStartEnabled" : null,
+  "chunks" : 0,
+  "filename" : null,
+  "order" : 0,
+  "valid" : true,
+  "matchAlwaysFilter" : {
+    "enabled" : true
+  }
+} ]
