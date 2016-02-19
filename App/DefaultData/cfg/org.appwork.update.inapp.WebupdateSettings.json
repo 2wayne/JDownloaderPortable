@@ -1,6 +1,0 @@
-{
-  "updateinterval" : 3600000,
-  "quickupdateinterval" : 300000,
-  "directupdateenabled" : false,
-  "autoupdatecheckenabled" : false
-}
